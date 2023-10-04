@@ -1,4 +1,6 @@
-Los prototipos tienen la siguiente funcionalidad:
+En este repositorio se guardan los avances de proyecto de rehabilitación de rodilla usando sensores actuadores.
+
+1. Sensores y actuadores: Los prototipos tienen la siguiente funcionalidad:
 
 El archivo "Demo Prototipo Inertial Body 4.zip" contiene versión actual de software para manejo de sensor inercial BWT61CL usando Delphi. En este código se maneja sensor y además se presentan datos de forma gráfica lo cual se espera incorporar dentro de una aplicación móvil.
 
@@ -27,4 +29,13 @@ Video de movimiento de dos actuadores (vibradores):
 https://youtube.com/shorts/NkO8BaZfrl0?feature=share
 Video de Representacion virtual de sistema sensor inercial junto a 2 actuadores (vibradores):
 https://youtube.com/shorts/RtSzJoPWof8?feature=share
+
+2. Red neuronal
+
+El demo muestra la operación de una red neuronal convolucional para predecir un tipo de ejercicio:
+
+https://github.com/sagagk/PrototipoSensorActuador/blob/main/DemoEjerciciosRedNeuronal.ipynb
+
+TODOS los codigos son operativos.
+
 
