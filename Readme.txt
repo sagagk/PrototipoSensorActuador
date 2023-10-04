@@ -1,6 +1,8 @@
 Los prototipos tienen la siguiente funcionalidad:
 
+El archivo "Demo Prototipo Inertial Body 4.zip" contiene versión actual de software para manejo de sensor inercial BWT61CL usando Delphi. En este código se maneja sensor y además se presentan datos de forma gráfica lo cual se espera incorporar dentro de una aplicación móvil.
 
+El archivo "Demo Prototipo Python Source.zip" contiene versión actual de software para manejo de sensor inercial BWT61CL usando Python. En este código se muestra el manejo y uso de sensor para usarlo de forma inalambrica mediante conexión BlueTooth. 
 
 Los videos de evidencia de prototipo de sensor-actuador son:
 
